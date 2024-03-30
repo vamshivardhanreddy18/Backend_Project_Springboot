@@ -1,2 +1,3 @@
 # Backend_Project_Springboot
-This project i have created 8 packages is mainly used to perform CRUD operations using Spring boot, Postman, Mysql as Database.
+Developed a small backend real time application using Spring boot(Restful application) & Mysql as Database. 
+This project deals with school management System with 8 different packages.
